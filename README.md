@@ -6,7 +6,7 @@ Stable Diffusion 3 Medium is the latest and most advanced text-to-image AI model
 # **Clone the repository:**
 
 git clone https://github.com/yourusername/ai-image-generator.git
-cd ai-image-generator
+- cd ai-image-generator
 
 ***Install the required packages:***
 
