@@ -3,6 +3,8 @@
 Using Stability.ai platform, this project is all about a text-to-image generator application built on React Development platform.
 Stable Diffusion 3 Medium is the latest and most advanced text-to-image AI model in the Stable Diffusion 3 series, comprising two billion parameters. It excels in photorealism, processes complex prompts, and generates clear text. 
 
+Find the deployment at : https://ai-image-generator-kappa-self.vercel.app/ 
+
 # **Clone the repository:**
 
 git clone https://github.com/yourusername/ai-image-generator.git
